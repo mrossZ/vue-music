@@ -13,7 +13,8 @@
     components: {
       MHeader,
       Tab
-    }
+    },
+    testName: 'test'
 }
 </script>
 
